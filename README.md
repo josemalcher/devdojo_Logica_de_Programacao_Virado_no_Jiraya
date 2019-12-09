@@ -53,7 +53,7 @@ https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ
 
 ## <a name="parte1">1 - Lógica de programação Virado no Jiraya - Introdução ao curso</a>
 
-
+- https://www.youtube.com/watch?v=ycyL5CqZoUo
 
 [Voltar ao Índice](#indice)
 
@@ -62,7 +62,7 @@ https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ
 
 ## <a name="parte2">2 - Lógica Virado no Jiraya 01 - Filtrando os fracos</a>
 
-
+- https://www.youtube.com/watch?v=7b2m9e0n_zg
 
 [Voltar ao Índice](#indice)
 
@@ -71,7 +71,7 @@ https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ
 
 ## <a name="parte3">3 - Lógica Virado no Jiraya 02 - Algoritmos e linguagens de programação</a>
 
-
+- https://www.youtube.com/watch?reload=9&v=sN89XChfiSk
 
 [Voltar ao Índice](#indice)
 
@@ -80,7 +80,7 @@ https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ
 
 ## <a name="parte4">4 - Lógica Virado no Jiraya 03 - Como Java Funciona</a>
 
-
+- https://www.youtube.com/watch?v=O0wG9iHnblY
 
 [Voltar ao Índice](#indice)
 
@@ -89,7 +89,7 @@ https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ
 
 ## <a name="parte5">5 - Lógica Virado no Jiraya 04 - Instalando Java</a>
 
-
+- https://www.youtube.com/watch?v=_iv9P_cSm_g
 
 [Voltar ao Índice](#indice)
 
